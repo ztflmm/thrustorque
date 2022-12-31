@@ -1,0 +1,22 @@
+.thumbnail {
+  width: 1000px;
+  border-radius: 2px;
+  display: block;
+}
+.search-bar {
+  font-size: 20px;
+  margin-left: 20px;
+  padding-left: 10px;
+  display: block;
+}
+.video-title {
+  width: 200px;
+}
+.image-description,
+.image-author {
+  display: inline-block;
+}
+
+.div-example {
+  display: inline-block;
+}
