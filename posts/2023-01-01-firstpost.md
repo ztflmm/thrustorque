@@ -2,5 +2,3 @@
 
 I started this blog for me to share my thoughts on the valve and actuation industry. It will be my visions on market, technology and business prespectives.
 
-
-> Written with [StackEdit](https://stackedit.io/).
